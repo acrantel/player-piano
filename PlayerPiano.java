@@ -70,7 +70,7 @@ public class PlayerPiano
 	
 	public static void main(String[] args)
 	{
-		File file = new File("/Users/95024341/eclipse-workspace/PianoPlayer/src/MaryHadALittleLamb.txt");
+		File file = new File("/MaryHadALittleLamb.txt");
 		PlayerPiano player = new PlayerPiano(file);
 		while (true)
 		{
